@@ -1,6 +1,10 @@
 # DependencyInjectionExample C#
 Dependency Injection Example C#
 
+Dependency Injection means giving an object its instance variables.
+Dependency Injection is providing the objects that an object needs (it's dependencies) instead of having to construct them.
+
+
 public interface IVehicleType
     {
         void Start();
